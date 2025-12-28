@@ -19,7 +19,6 @@ My goal is to grow into a strong software engineer through consistent practice a
 
 <a href="https://www.github.com/premkmaurya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/premkmaurya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ### Badges
 
 <b>My GitHub Stats</b>
